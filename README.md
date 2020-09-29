@@ -10,7 +10,7 @@ $ python HiggsAnalysis/KITHiggsToTauTau/scripts/FlavioPlots.py --channel em --pa
 $ python HiggsAnalysis/KITHiggsToTauTau/scripts/FlavioPlots.py --channel em --parameter m_vis --data Blinded
 
 # BDT Training:
-you can find information in the following link.
+You can find information in the following link.
 "https://github.com/cms-analysis/HiggsAnalysis-KITHiggsToTauTau/wiki/Lepton-Flavour-Violation"
 
 
