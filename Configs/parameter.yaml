@@ -1,0 +1,24 @@
+### Define parameters from ARTUS ###
+#-name of the parameter in artus ntuple
+#-binning
+#-name of output plot
+#-xlabel
+
+njets:
+- "njets"
+- ["10,0.0,10.0"]
+- "Jets_Number"
+- "Number of Jets"
+
+m_vis:
+- "m_vis"
+- ["20,30,120"]
+- "VisibleMass"
+- "m_{vis} [GeV]"
+
+pt_ll:
+- "diLepLV.Pt()"
+- ["20,0,100"]
+- "DiLepPt"
+- "p^{ll}_{T} [GeV]"
+- "(diLepLV.Pt(){side}{cut})"
